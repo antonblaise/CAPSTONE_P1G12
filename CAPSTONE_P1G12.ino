@@ -2,9 +2,9 @@
 // Fill-in information from your Blynk Template here
 //#define BLYNK_TEMPLATE_ID           "TMPLxxxxxx"
 //#define BLYNK_DEVICE_NAME           "Device"
-#define BLYNK_TEMPLATE_ID "TMPL77KhA_Io"
+#define BLYNK_TEMPLATE_ID "TMPLxxxxxxx"
 #define BLYNK_DEVICE_NAME "CAPSTONE"
-#define BLYNK_AUTH_TOKEN "NgfpupYoZS_Gb2gmavvvSPQuJ7eYYJ4G"
+#define BLYNK_AUTH_TOKEN "xxxxxxxxxxxxxxxxxxxxx"
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 
